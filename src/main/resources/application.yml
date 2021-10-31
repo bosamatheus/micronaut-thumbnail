@@ -1,3 +1,7 @@
 micronaut:
   application:
     name: micronautThumbnail
+
+thumbnail:
+  width: 256
+  height: 256
